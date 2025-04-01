@@ -2,3 +2,4 @@ Improved threat classification workflow - 04/07/2025 16:14:12
 Enhanced keyboard event monitoring - 04/07/2025 19:02:19
 Enhanced monitoring engine reliability - 04/07/2025 14:20:18
 Added stealth keylogger detection - 04/07/2025 15:22:07
+Enhanced background service monitoring - 04/01/2025 11:03:30
