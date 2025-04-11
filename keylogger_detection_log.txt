@@ -12,3 +12,4 @@ Improved real-time threat monitoring - 04/06/2025 09:17:47
 Enhanced detection stability - 04/06/2025 21:41:54
 Enhanced monitoring engine reliability - 04/06/2025 21:18:00
 Added registry persistence analysis - 04/02/2025 12:10:26
+Added suspicious DLL injection detection - 04/11/2025 15:05:39
