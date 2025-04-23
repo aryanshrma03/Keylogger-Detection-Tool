@@ -42,3 +42,4 @@ Added registry persistence analysis - 04/22/2025 14:18:18
 Improved system event logging - 04/23/2025 15:16:19
 Updated process inspection module - 04/23/2025 12:07:25
 Fixed minor monitoring inconsistencies - 04/23/2025 15:27:22
+Added hidden process detection - 04/23/2025 14:43:48
