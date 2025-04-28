@@ -45,3 +45,4 @@ Fixed minor monitoring inconsistencies - 04/23/2025 15:27:22
 Added hidden process detection - 04/23/2025 14:43:48
 Improved suspicious behavior analysis - 04/28/2025 13:52:45
 Added suspicious DLL injection detection - 04/28/2025 20:27:47
+Added stealth keylogger detection - 04/28/2025 13:26:22
