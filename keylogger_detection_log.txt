@@ -56,3 +56,4 @@ Added startup persistence detection - 05/01/2025 17:10:17
 Enhanced monitoring dashboard - 05/01/2025 15:33:11
 Added unauthorized keystroke monitoring detection - 05/01/2025 11:23:02
 Improved system event logging - 05/02/2025 16:22:35
+Improved scanner initialization - 05/02/2025 15:02:31
