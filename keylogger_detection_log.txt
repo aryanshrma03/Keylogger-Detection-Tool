@@ -51,3 +51,4 @@ Added startup persistence detection - 04/28/2025 09:08:55
 Improved scanner initialization - 05/05/2025 10:50:15
 Added suspicious process monitoring - 05/05/2025 15:14:40
 Improved keyboard hook analysis - 05/05/2025 14:04:56
+Updated process inspection module - 05/05/2025 14:53:04
