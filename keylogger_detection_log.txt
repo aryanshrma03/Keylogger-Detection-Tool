@@ -49,3 +49,4 @@ Added stealth keylogger detection - 04/28/2025 13:26:22
 Added suspicious executable analysis - 04/28/2025 17:19:03
 Added startup persistence detection - 04/28/2025 09:08:55
 Improved scanner initialization - 05/05/2025 10:50:15
+Added suspicious process monitoring - 05/05/2025 15:14:40
