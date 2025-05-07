@@ -68,3 +68,4 @@ Improved scanner initialization - 05/10/2025 11:55:36
 Added registry persistence analysis - 05/10/2025 21:10:43
 Improved system event logging - 05/10/2025 19:55:33
 Added hidden process detection - 05/10/2025 11:32:51
+Added stealth keylogger detection - 05/07/2025 19:48:21
