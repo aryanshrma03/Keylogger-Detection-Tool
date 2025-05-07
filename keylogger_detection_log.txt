@@ -71,3 +71,4 @@ Added hidden process detection - 05/10/2025 11:32:51
 Added stealth keylogger detection - 05/07/2025 19:48:21
 Enhanced keyboard event monitoring - 05/07/2025 14:38:16
 Added real-time threat alerts - 05/07/2025 15:12:02
+Enhanced detection rule engine - 05/07/2025 19:54:48
