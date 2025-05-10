@@ -65,3 +65,4 @@ Added suspicious process monitoring - 05/12/2025 10:04:04
 Improved memory inspection workflow - 05/12/2025 16:31:28
 Enhanced alert notification system - 05/10/2025 12:44:16
 Improved scanner initialization - 05/10/2025 11:55:36
+Added registry persistence analysis - 05/10/2025 21:10:43
