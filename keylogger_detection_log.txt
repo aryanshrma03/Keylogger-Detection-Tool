@@ -77,3 +77,4 @@ Added suspicious process monitoring - 05/11/2025 13:39:32
 Improved memory inspection workflow - 05/11/2025 09:28:35
 Enhanced keyboard event monitoring - 05/14/2025 18:50:10
 Enhanced process validation checks - 05/14/2025 09:12:57
+Enhanced detection sensitivity - 05/14/2025 09:23:36
