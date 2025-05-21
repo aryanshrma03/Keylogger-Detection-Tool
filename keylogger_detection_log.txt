@@ -93,3 +93,4 @@ Improved scanner initialization - 05/23/2025 11:58:20
 Improved suspicious behavior analysis - 05/23/2025 22:09:58
 Improved threat classification workflow - 05/23/2025 09:42:21
 Added suspicious executable analysis - 05/23/2025 18:49:49
+Improved threat classification workflow - 05/21/2025 10:26:04
