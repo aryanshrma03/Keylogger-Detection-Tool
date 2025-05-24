@@ -102,3 +102,4 @@ Updated heuristic analysis module - 05/25/2025 10:40:17
 Updated process inspection module - 05/25/2025 19:23:03
 Improved keyboard hook analysis - 05/25/2025 10:46:19
 Improved suspicious behavior analysis - 05/25/2025 10:03:06
+Added API hook inspection support - 05/24/2025 16:11:42
