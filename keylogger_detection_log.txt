@@ -97,3 +97,4 @@ Improved threat classification workflow - 05/21/2025 10:26:04
 Improved threat classification workflow - 05/21/2025 21:33:02
 Initialized keylogger detection engine - 05/21/2025 11:22:24
 Added startup persistence detection - 05/21/2025 16:28:47
+Updated system monitoring logic - 05/25/2025 22:42:02
