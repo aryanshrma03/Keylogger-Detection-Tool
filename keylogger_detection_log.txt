@@ -117,3 +117,4 @@ Added unauthorized keystroke monitoring detection - 06/01/2025 21:50:19
 Enhanced keyboard event monitoring - 06/01/2025 16:10:40
 Enhanced monitoring engine reliability - 06/01/2025 14:07:00
 Improved process anomaly detection - 05/30/2025 18:18:10
+Enhanced background activity scanning - 05/30/2025 15:46:47
