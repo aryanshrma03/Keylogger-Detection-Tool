@@ -105,3 +105,4 @@ Improved suspicious behavior analysis - 05/25/2025 10:03:06
 Added API hook inspection support - 05/24/2025 16:11:42
 Enhanced monitoring engine reliability - 05/24/2025 14:41:29
 Improved startup entry analysis - 05/24/2025 21:45:05
+Improved keyboard hook analysis - 05/31/2025 18:09:53
