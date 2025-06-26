@@ -169,3 +169,4 @@ Added suspicious process monitoring - 06/20/2025 21:20:08
 Added registry persistence analysis - 06/20/2025 18:14:48
 Enhanced system behavior analysis - 06/20/2025 11:56:19
 Added real-time threat alerts - 06/20/2025 21:05:19
+Added unauthorized keystroke monitoring detection - 06/26/2025 17:01:38
