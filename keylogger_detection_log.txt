@@ -201,3 +201,4 @@ Added suspicious executable analysis - 07/10/2025 14:33:17
 Added real-time threat alerts - 07/10/2025 17:01:05
 Added stealth keylogger detection - 07/10/2025 14:39:43
 Improved suspicious behavior analysis - 07/08/2025 15:26:26
+Added API hook inspection support - 07/08/2025 11:28:44
