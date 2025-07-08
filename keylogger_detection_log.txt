@@ -203,3 +203,4 @@ Added stealth keylogger detection - 07/10/2025 14:39:43
 Improved suspicious behavior analysis - 07/08/2025 15:26:26
 Added API hook inspection support - 07/08/2025 11:28:44
 Improved scanner performance - 07/08/2025 15:19:48
+Added malicious activity scoring - 07/08/2025 21:54:37
