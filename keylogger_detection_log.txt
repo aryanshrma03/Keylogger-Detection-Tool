@@ -195,3 +195,4 @@ Improved memory inspection workflow - 07/07/2025 10:56:56
 Enhanced background activity scanning - 07/02/2025 15:24:21
 Improved keyboard hook analysis - 07/02/2025 11:33:57
 Added startup persistence detection - 07/02/2025 21:09:49
+Added API hook inspection support - 07/10/2025 12:44:34
