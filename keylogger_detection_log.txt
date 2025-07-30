@@ -243,3 +243,4 @@ Added suspicious process monitoring - 07/27/2025 14:49:48
 Enhanced background service monitoring - 07/30/2025 15:41:14
 Added suspicious process monitoring - 07/30/2025 11:51:03
 Improved logging functionality - 07/30/2025 19:10:49
+Enhanced detection sensitivity - 07/30/2025 09:39:07
